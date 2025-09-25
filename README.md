@@ -1,5 +1,7 @@
-## Hi there 👋
-
+# About me
+## hey hey hey!
+#### I think I got it
+##### still a lot of info to learn, I know, doing my best
 <!--
 **kabaciok2002/kabaciok2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
